@@ -86,10 +86,6 @@
     {
       "src": "/swagger",
       "dest": "/index.html"
-    },
-    {
-      "src": "/go",
-      "dest": "/main.go"
     }
   ]
 }
